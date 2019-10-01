@@ -1,3 +1,3 @@
 # Waymo
 
-* Download Wamo Dataset[https://waymo.com/open/]
+* Download Wamo Dataset[https://waymo.com/open/download/]
